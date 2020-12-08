@@ -106,8 +106,6 @@ Once you've coded up your riff(s), all you need to do is to submit a pull reques
 
 OK, so you want to get started? 
 
-Firstly you might want to watch the Universe2020 Sonic Pi workshop video: WORKSHOP-VID-URL.
-
 Next you might want to check out [The Sonic Pi Tutorial](https://sonic-pi.net/tutorial). 
 
 I would suggest whizzing through [Section 2 on Synths](https://sonic-pi.net/tutorial#section-2) 
