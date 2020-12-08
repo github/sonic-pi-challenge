@@ -45,7 +45,7 @@ __OK, this is going to be fun. It calls for some awesome ascii-art!__
 
 <img align="right" src="https://githubuniverse.com/assets/img/speakers/Sam_Aaron_Headshot.jpg" width="260">
 
-Let's get started. Hello! I'm <a href="">http://sam.aaron.name/>Sam Aaron</a>.
+Let's get started. Hello! I'm <a href="http://sam.aaron.name/">Sam Aaron</a>.
 
 I created a thing called [Sonic Pi](https://sonic-pi.net/) 
 which lets you turn code into music. 
