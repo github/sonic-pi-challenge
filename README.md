@@ -89,12 +89,11 @@ simple coded riffs.
 __Note that using your own samples isn't available as an option in this
 challenge as I won't have access to your personal sample files.__
 
-Once you've coded up your riff, all you need to do is to submit your
-code to SUBMISSION-URL
+Once you've coded up your riff(s), all you need to do is to submit a pull request to this repository. Add your file(s) to the `snippets` directory named with the pattern `USERNAME_ID.rb` e.g. `leereilly_01.rb` and `leereilly_02.rb`.
 
 ## Tips
 
-1. All submissions will be considered
+1. All submissions will be considered.
 2. Simple code is just as likely to be picked as complex code.
 3. Ideally the sound should play for no more than 10 seconds (any submission I use might be trimmed).
 4. Submissions can only be text files with the code.
