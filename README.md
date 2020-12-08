@@ -91,6 +91,8 @@ challenge as I won't have access to your personal sample files.__
 
 Once you've coded up your riff(s), all you need to do is to submit a pull request to this repository. Add your file(s) to the `snippets` directory named with the pattern `USERNAME_ID.rb` e.g. `leereilly_01.rb` and `leereilly_02.rb`.
 
+**Please note:** All submissions are under the [CC0-1.0 license](LICENSE.md). This should be your own work or work that you have the right to contribute.
+
 ## Tips
 
 1. All submissions will be considered.
@@ -187,7 +189,9 @@ end
 
 ## Submit and Share!
 
-Once you have your sumbission please submit a pull request adding your riff/melody to the `/snippets` directory named `username_01`, where _username_ is your GitHub username.
+Once you have your sumbission please submit a pull request adding your riff/melody to the `snippets` directory named `username_01`, where _username_ is your GitHub username and _01_ is just a unique identifier in case you have multiple submissions.
+
+**Please note:** All submissions are under the [CC0-1.0 license](LICENSE.md). This should be your own work or work that you have the right to contribute.
 
 Thanks so much for taking part, live coding your own riff and sharing it with us. Please do tune into the performance to see if your submission will feature!
 
