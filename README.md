@@ -45,18 +45,18 @@ Let's get started. Hello! [I'm Sam Aaron](http://sam.aaron.name/).
 I created a thing called [Sonic Pi](https://sonic-pi.net/) 
 which lets you turn code into music. 
 
-As part of GitHub Universe 2020 I delivered an introductory workshop on
-how to start live coding synths and beats with Sonic Pi. 
+As part of GitHub Universe 2020 I delivered an [introductory workshop on
+how to start live coding synths and beats with Sonic Pi](https://githubuniverse.com/Express-yourself-with-code-Learn%20to%20live%20code%20beats%20and%20riffs%20with%20Sonic%20Pi/). 
 
 (You may have already watched it, in which case, hello again!).
 
 In that workshop I issued a challenge to get you to write a bit of code
-which I could use in my live performance. Once I have all the
+which I could use in my [live performance](https://githubuniverse.com/Closing-performance-live-coded-DJ-set-with-Sam-Aaron-on-Sonic-PI/). Once I have all the
 submissions I'll choose a nice selection of them to incorporate into my
 performance.
 
 All entries will feature in a public repo so everyone will be able to
-jam with, mash it up and perhaps even perform your live codign debut
+jam with, mash it up and perhaps even perform your live coding debut
 with it at an upcoming conference.
 
 
