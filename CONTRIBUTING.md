@@ -10,4 +10,6 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 ## Submitting a pull request
 
 0. [Fork][fork] and clone the repository
-0. Configure and install the dependencies: `script/bootstrap`
+0. Add your code snippet to the `snippets` directory - name the file(s) with your username follower by and underscore and an ID e.g. `leereilly_01.rb`
+0. Submit your pull request!
+0. :metal:
