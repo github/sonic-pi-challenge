@@ -132,12 +132,12 @@ sleep 0.125
 play 45
 ```
 
-Of course, you might want to embelish your riff by using `use_synth` to
+Of course, you might want to embellish your riff by using `use_synth` to
 change the synthesiser, use the `release:` opt to change the length of
 each note, use randomisation to choose one of a set of notes: `[45, 52, 64, 71].choose`, 
 [bring in samples](https://sonic-pi.net/tutorial#section-3),
 [use FX blocks](https://sonic-pi.net/tutorial#section-6) and anything
-else you find fun. If it's included in the Sonic Pi tutorial then its
+else you find fun. If it's included in the Sonic Pi tutorial then it's
 fine to use it in your submission.
 
 So experiment and play!
@@ -187,7 +187,7 @@ end
 
 ## Submit and Share!
 
-Once you have your sumbission please submit a pull request adding your riff/melody to the `snippets` directory named `username_01`, where _username_ is your GitHub username and _01_ is just a unique identifier in case you have multiple submissions.
+Once you have your submission please submit a pull request adding your riff/melody to the `snippets` directory named `username_01`, where _username_ is your GitHub username and _01_ is just a unique identifier in case you have multiple submissions.
 
 **Please note:** All submissions are under the [CC0-1.0 license](LICENSE.md). This should be your own work or work that you have the right to contribute.
 
