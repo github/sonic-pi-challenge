@@ -11,6 +11,6 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 ## Submitting a pull request
 
 0. [Fork][fork] and clone the repository
-0. Add your riff to the `snippets` directory - name the file(s) with your username followed by and underscore and an ID e.g. `leereilly_01.rb`
+0. Add your riff to the `snippets` directory - name the file(s) with your username followed by an underscore and an ID e.g. `leereilly_01.rb`
 0. Submit your pull request!
 0. :metal:
