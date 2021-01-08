@@ -1,6 +1,11 @@
-<sup>
-  <strong>Quick links:</strong> <a href="#background">Background</a> • <a href="#what-you-will-need">What you will need</a> • <a href="#challenge-brief">Challenge Brief</a> • <a href="#tips">Tips</a> • <a href="#getting-started">Getting Started</a> • <a href="#examples">Examples</a> • <a href="#submit-and-share">Submit and Share</a>
-</sup>
+<div align="center">
+  <img src="sonic-pi-challenge.gif">
+  <p>The Sonic Pi Challenge is over.</p>
+  <p>Thank you to everyone who took part.</p>
+  <p>You can view Sam's final live-coded DJ set <a href="https://www.youtube.com/watch?v=oa2dHlQ-kfs">here</a> incorporating some of your <a href="snippets">snippets :metal:</p>
+</div>
+
+#
 
 # GitHub Universe2020 Sonic Pi Challenge
 
