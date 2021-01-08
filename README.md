@@ -2,7 +2,7 @@
   <img src="sonic-pi-challenge.gif">
   <p>The Sonic Pi Challenge is over.</p>
   <p>Thank you to everyone who took part.</p>
-  <p>You can view Sam's final live-coded DJ set <a href="https://www.youtube.com/watch?v=oa2dHlQ-kfs">here</a> incorporating some of your <a href="snuppets">snippets :metal:</p>
+  <p>You can view Sam's final live-coded DJ set <a href="https://www.youtube.com/watch?v=oa2dHlQ-kfs">here</a> incorporating some of your <a href="snippets">snippets :metal:</p>
 </div>
 
 #
