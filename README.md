@@ -7,10 +7,6 @@
 
 #
 
-<sup>
-  <strong>Quick links:</strong> <a href="#background">Background</a> • <a href="#what-you-will-need">What you will need</a> • <a href="#challenge-brief">Challenge Brief</a> • <a href="#tips">Tips</a> • <a href="#getting-started">Getting Started</a> • <a href="#examples">Examples</a> • <a href="#submit-and-share">Submit and Share</a>
-</sup>
-
 # GitHub Universe2020 Sonic Pi Challenge
 
 __OK, this is going to be fun. It calls for some awesome ascii-art!__
